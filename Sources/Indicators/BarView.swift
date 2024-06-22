@@ -6,6 +6,8 @@
 //  Copyright © 2021 Exyte. All rights reserved.
 //
 
+import SwiftUI
+
 struct BarView: View {
     @Binding var progress: CGFloat
     let backgroundColor: Color
